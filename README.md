@@ -3,7 +3,7 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="Exercícios/ex001/index.html"> Executar o exercício 001.</a>
+ <a href="https://98kevelin.github.io/html-css/exercicios/ex001/"> Executar o exercício 001.</a>
 
 
 
